@@ -1,6 +1,6 @@
 # Byte Lounge
 
-## |CTF team |Write  Up's |Youtube | Github| [Guide](Guide.md)
+## |[CTF team](https://ctftime.org/team/126632) |Write  Ups |[Youtube](https://www.youtube.com/channel/UCipF4_3RwcWeWVbWF1O9f6A) | [Github](https://github.com/Byte-Lounge)| [Guide](Guide.md)
 
 ## About us
 
