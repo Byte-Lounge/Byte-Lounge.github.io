@@ -1,35 +1,15 @@
-## Byte Lounge
+# Byte Lounge
 
-|CTF team |Write  Up's |Youtube | Github|
+## |CTF team |Write  Up's |Youtube | Github|
 
-### Markdown
+## About us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This Discord Server is a great place to find out how to ethically hack!
+This server was made so that other people could learn how to ethically hack,
+how to further develop knowledge or fancy a challenge and join our capture the flag(CTF) team and win prizes.
+We enjoy challenges and happy to give tips to people that are stuck on problems.
+We find great satisfaction in achieving challenges as a team.
+If this sounds like something you'd like to be a part of, please use the link at the top of the description.
 
-```markdown
-Syntax highlighted code block
+## Contact Us
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Byte-Lounge/Byte-Lounge.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
