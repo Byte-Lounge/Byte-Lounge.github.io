@@ -106,10 +106,3 @@ Online resources for these subjects are:
 Online resources for these subjects are:
 
 ---
-
-
-### License:
-[MIT License](https://github.com/Byte-Lounge/Beginners_Guide/blob/main/LICENSE)
-
-### DISCLAIMER:  
-*They is no ONE or BEST method of getting into hacking but this is the my opinion on a good path that any beginner could follow.*
