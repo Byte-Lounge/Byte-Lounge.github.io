@@ -1,3 +1,5 @@
+## | [CTF team](https://ctftime.org/team/126632) | [Write  Ups](Writeups.md) | [Youtube](https://www.youtube.com/channel/UCipF4_3RwcWeWVbWF1O9f6A) | [Github](https://github.com/Byte-Lounge)| [Resources](Resources.md) |
+
 ### Before continuing:
 
 * This guide is for ethical hackers only and will not dip into any black hat subjects.
