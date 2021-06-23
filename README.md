@@ -11,3 +11,8 @@ We find great satisfaction in achieving challenges as a team.
 
 ## Contact Us
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
