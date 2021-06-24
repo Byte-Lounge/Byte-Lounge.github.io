@@ -3,6 +3,8 @@
 # A list of resources that would be helpful for hackers, pentesters.
 
 ## Articles
+
+
 | Article | Description |
 * [Explore Hidden Networks With Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) | Good article for understanding network pivoting during penetration tests with multiple networks.
 | [So You Want To Be A Hacker: 2021 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)  | Great guide on how to become an hacker/pentester. |
