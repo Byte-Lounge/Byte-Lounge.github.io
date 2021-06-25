@@ -5,6 +5,7 @@
 ## Articles
 
 | Article | Description |
+
 [Explore Hidden Networks With Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) | Good article for understanding network pivoting during penetration tests with multiple networks.
 | [So You Want To Be A Hacker: 2021 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)  | Great guide on how to become an hacker/pentester. |
 
@@ -24,6 +25,7 @@
 
 ## Certifications
 | Certificates | Description |
+
 [Certification Road Map](https://pauljerimy.com/security-certification-roadmap/)  |A chart attempts to classify and rank security certifications based on reputation, difficulty, and usefulness of the material covered.  
 [Certified Ethical Hacking V11](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  |Certified Ethical Hacker (CEH) is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems.  
 [CompTIA Security+](https://www.comptia.org/certifications/security)  |CompTIA Security+ is a entry level certification that validates you have a good baseline of skills in security operations, assessing security posture, laws and regulations.  
@@ -34,6 +36,7 @@
 
 ##  Online Courses
 | Course | Description |
+
 [Cybrary](https://app.cybrary.it/) | Cybersecurity Professional Development Platform - contains many quality courses with hands-on labs e.g. for Pentest+ certification. Subscription based. 3 day free trial.  
 [Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)  |Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.  
 [Linux Heap Exploitation - Part 1](https://www.udemy.com/course/linux-heap-exploitation-part-1/)  |An hands-on course, students will learn new techniques and developing their own exploits based on what they've learned.  
@@ -45,6 +48,7 @@
 
 ##  Websites
 | Website | Description |
+
 [BoxenTriq](https://www.boxentriq.com/code-breaking) |Free tools and resources to help you solve code-breaking challenges and ciphers with some automation support.  
 [Bugcrowd bug bounty list](https://www.bugcrowd.com/bug-bounty-list/) |The most comprehensive, up to date crowdsourced list of bug bounty and security disclosure programs from across the web curated by the hacker community.  
 [CTFtime](https://ctftime.org/)  |CTF archive with a rating system as well.  
@@ -76,6 +80,7 @@
 
 ## Youtube Channels 
 | Channel | Description |
+
 [Andy](https://www.youtube.com/c/rot169/featured)  |Developing intermediate-level skills.  
 [DAY0](https://www.youtube.com/c/dayzerosec)  | Podcasts as well as other reverse engineering / exploit development-related media.  
 [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)  |Walkthroughs on retired machines on the HackTheBox website.  
