@@ -10,10 +10,7 @@
 
 ## Books
 | Book | Description |
-| [A Bug Hunter's Diary](https://www.amazon.co.uk/Bug-Hunters-Diary-Software-Security/dp/1593273851)  | A Bug Hunter's Diary follows security expert Tobias Klein as he tracks down and exploits bugs in some of the world's most popular software. |
-| [So You Want To Be A Hacker: 2021 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)  | Great guide on how to become an hacker/pentester. |
-
-
+[A Bug Hunter's Diary](https://www.amazon.co.uk/Bug-Hunters-Diary-Software-Security/dp/1593273851)  | A Bug Hunter's Diary follows security expert Tobias Klein as he tracks down and exploits bugs in some of the world's most popular software.
 | [Ghost In The Wires](https://www.amazon.co.uk/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316212180/ref=pd_lpo_14_t_0/259-3728016-4807561?_encoding=UTF8&pd_rd_i=0316212180&pd_rd_r=cf00ab8b-e8a8-4087-b816-0733ac6b3fb4&pd_rd_w=24sfq&pd_rd_wg=xCYPW&pf_rd_p=7b8e3b03-1439-4489-abd4-4a138cf4eca6&pf_rd_r=S5KN85JHQC1BYWVH6FNK&psc=1&refRID=S5KN85JHQC1BYWVH6FNK)  | Kevin's Mitnick account when he was on the run from the FBI. |
 [Hacking: The Art of Exploitation](https://www.amazon.co.uk/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)  |A bit outdated but definitely should be in any hackers aresnal, with working examples and tutorials on hacking.  
 [Penetration Testing – A Hands-On Introduction to Hacking](https://www.amazon.co.uk/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)  |Book about core skills and techniques that all hackers should have.  
