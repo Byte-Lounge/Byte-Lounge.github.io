@@ -4,14 +4,12 @@
 
 ## Articles
 
-
 | Article | Description |
-* [Explore Hidden Networks With Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) | Good article for understanding network pivoting during penetration tests with multiple networks.
+[Explore Hidden Networks With Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) | Good article for understanding network pivoting during penetration tests with multiple networks.
 | [So You Want To Be A Hacker: 2021 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)  | Great guide on how to become an hacker/pentester. |
 
 ## Books
 | Book | Description |
-| ---- | ----        |
 | [A Bug Hunter's Diary](https://www.amazon.co.uk/Bug-Hunters-Diary-Software-Security/dp/1593273851)  | A Bug Hunter's Diary follows security expert Tobias Klein as he tracks down and exploits bugs in some of the world's most popular software. |
 | [Ghost In The Wires](https://www.amazon.co.uk/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316212180/ref=pd_lpo_14_t_0/259-3728016-4807561?_encoding=UTF8&pd_rd_i=0316212180&pd_rd_r=cf00ab8b-e8a8-4087-b816-0733ac6b3fb4&pd_rd_w=24sfq&pd_rd_wg=xCYPW&pf_rd_p=7b8e3b03-1439-4489-abd4-4a138cf4eca6&pf_rd_r=S5KN85JHQC1BYWVH6FNK&psc=1&refRID=S5KN85JHQC1BYWVH6FNK)  | Kevin's Mitnick account when he was on the run from the FBI. |
 [Hacking: The Art of Exploitation](https://www.amazon.co.uk/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)  |A bit outdated but definitely should be in any hackers aresnal, with working examples and tutorials on hacking.  
@@ -25,8 +23,7 @@
 [The Web Application Hacker′s Handbook](https://www.amazon.co.uk/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)  |This practical book has been completely updated and revised to discuss the latest step-by-step techniques for attacking and defending the range of ever-evolving web applications.  
 
 ## Certifications
-Certificates | Description
----- | ----
+| Certificates | Description |
 [Certification Road Map](https://pauljerimy.com/security-certification-roadmap/)  |A chart attempts to classify and rank security certifications based on reputation, difficulty, and usefulness of the material covered.  
 [Certified Ethical Hacking V11](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  |Certified Ethical Hacker (CEH) is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems.  
 [CompTIA Security+](https://www.comptia.org/certifications/security)  |CompTIA Security+ is a entry level certification that validates you have a good baseline of skills in security operations, assessing security posture, laws and regulations.  
@@ -36,8 +33,7 @@ Certificates | Description
 [Professor Messer](https://www.youtube.com/user/professormesser) |Well-known channel with quality courses preparing you for A+, Network+ and Security+ certifications.  
 
 ##  Online Courses
-Course | Description
----- | ----
+| Course | Description |
 [Cybrary](https://app.cybrary.it/) | Cybersecurity Professional Development Platform - contains many quality courses with hands-on labs e.g. for Pentest+ certification. Subscription based. 3 day free trial.  
 [Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)  |Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.  
 [Linux Heap Exploitation - Part 1](https://www.udemy.com/course/linux-heap-exploitation-part-1/)  |An hands-on course, students will learn new techniques and developing their own exploits based on what they've learned.  
@@ -48,8 +44,7 @@ Course | Description
 
 
 ##  Websites
-Website | Description
----- | ----
+| Website | Description |
 [BoxenTriq](https://www.boxentriq.com/code-breaking) |Free tools and resources to help you solve code-breaking challenges and ciphers with some automation support.  
 [Bugcrowd bug bounty list](https://www.bugcrowd.com/bug-bounty-list/) |The most comprehensive, up to date crowdsourced list of bug bounty and security disclosure programs from across the web curated by the hacker community.  
 [CTFtime](https://ctftime.org/)  |CTF archive with a rating system as well.  
@@ -80,8 +75,7 @@ Website | Description
 
 
 ## Youtube Channels 
-Channel | Description
----- | ----
+| Channel | Description |
 [Andy](https://www.youtube.com/c/rot169/featured)  |Developing intermediate-level skills.  
 [DAY0](https://www.youtube.com/c/dayzerosec)  | Podcasts as well as other reverse engineering / exploit development-related media.  
 [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)  |Walkthroughs on retired machines on the HackTheBox website.  
